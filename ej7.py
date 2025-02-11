@@ -1,0 +1,6 @@
+n1 = int(input("Ingresa Tu Calificacion de entre 1 y 100 "))
+if n1 >= 90 and n1 <=100: print("Tu Calificacion es A")
+elif n1 >= 80 and n1 < 90: print("Tu Calificacion es B")
+elif n1 >= 70 and n1 < 80: print("Tu Calificacion es C")
+elif n1 >= 60 and n1 < 70: print("Tu Calificacion es D")
+else: print("Tu Calificacion es F")

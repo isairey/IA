@@ -1,0 +1,5 @@
+n = str(input("Ingresa el nombre"))
+s = str(input("Ingresa el semestre"))
+c = str(input("Ingresa el carrera"))
+m = str(input("Ingresa el materia"))
+print("El Nombre es: ",n," El Semestre es: ",s," La Carrera es: ",c," La Materia es: ",m)
