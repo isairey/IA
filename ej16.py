@@ -1,5 +1,5 @@
 datos_temperatura = {
-    "CiudaddeMéxico"
+    "CiudaddeMéxico": 21,
     "Monterrey": 21,
     "Guadalajara": 19,
     "Cancún": 20,
